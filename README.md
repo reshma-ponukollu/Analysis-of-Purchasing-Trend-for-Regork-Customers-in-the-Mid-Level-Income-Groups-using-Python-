@@ -1,0 +1,2 @@
+# Analysis-of-Purchasing-Trend-for-Regork-Customers-in-the-Mid-Level-Income-Groups-using-Python-
+The main objective of the project is to identify patterns in the buying behavior of customers within the income range of $50-74K, with a focus on the Grocery department. The aim is to enable Regork to make more informed decisions based on data analysis and ultimately enhance the shopping experience of this target group in the specified department. 
